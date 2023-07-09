@@ -1,1 +1,3 @@
-data <- read.csv('https://website.com/data.csv')
+url <- read.csv("https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2017-financial-year-provisional/Download-data/annual-enterprise-survey-2017-financial-year-provisional-csv.csv",header=TRUE)
+
+ 
